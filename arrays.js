@@ -3,7 +3,7 @@ chocolateBars()
 console.log (chocolateBars)
 
 function addElementToBeginningOfArray(a,b){
-addElementToBeginningOfArray()
+addElementToBeginningOfArray(a)
 }
 
 function destructivelyAddElementToBeginningOfArray(a,b){
