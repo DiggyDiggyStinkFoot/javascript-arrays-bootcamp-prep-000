@@ -21,4 +21,6 @@ function destructivelyAddElementToEndOfArray(a,b){
 
 function accessElementInArray(array,index){
   array[index]
+  return accessElementInArray()
+  
 }
