@@ -7,7 +7,8 @@ return[b,...a]
 }
 
 function destructivelyAddElementToBeginningOfArray(a,b){
-a.unshiftb
+a.unshift(b)
+return(a)
 }
 
 function addElementToEndOfArray(a,b){
